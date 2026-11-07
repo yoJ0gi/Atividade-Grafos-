@@ -23,3 +23,5 @@ Lucas Jogi Umeoka Moura
 RA: 2035149
 Luccas Fiorin
 RA: 2035283
+João Gabriel Panobianco
+RA: 2031633
