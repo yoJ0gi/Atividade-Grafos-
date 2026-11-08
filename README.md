@@ -25,3 +25,5 @@ Luccas Fiorin
 RA: 2035283
 João Gabriel Panobianco
 RA: 2031633
+Vitor Fernandes Cappi
+RA: 2075328
